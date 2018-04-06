@@ -1,6 +1,8 @@
 ## Welcome to Rehsdarb's Web Page!
 This is a new page where i will attempt to play around.
-Need to click a link?? Here's one >> (https://github.com/rehsdarb1/WebPage/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Need to click a link?? 
+Here's one >> (https://github.com/rehsdarb1/WebPage/edit/master/index.md) 
+Click it to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
